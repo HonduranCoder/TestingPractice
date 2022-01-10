@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Characters 1`] = `
+<div>
+  <ul
+    aria-label="characters"
+    class="list"
+  >
+    <li
+      class="item"
+    >
+      <a
+        href="/characters/undefined"
+      >
+        <figure>
+          <img
+            alt="Rick"
+            class="image"
+            src="https://rickandmortyapi.com/api/location/1"
+          />
+          <figcaption
+            class="linkText"
+          >
+            Rick
+          </figcaption>
+        </figure>
+      </a>
+    </li>
+  </ul>
+</div>
+`;
