@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Character 1`] = `
+<div>
+  <figure>
+    <img
+      alt="Rick"
+      src="https://rickandmortyapi.com/api/location/1"
+    />
+    <figcaption>
+      <h3>
+        Rick
+      </h3>
+      <p>
+        Human
+      </p>
+      <p>
+        Status: 
+        Alive
+      </p>
+    </figcaption>
+  </figure>
+</div>
+`;
